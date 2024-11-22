@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 streamlit==1.26.0
 streamlit-option-menu==0.3.2
 numpy==1.23.5
 pandas==1.5.3
 plotly==5.15.0
+=======
+streamlit==1.26.0
+streamlit-option-menu==0.3.2
+numpy==1.23.5
+pandas==1.5.3
+plotly==5.15.0
+>>>>>>> 9559d5b6e7f1dcc93751b0d67f581325dffb9e44
